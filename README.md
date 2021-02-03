@@ -17,6 +17,14 @@ wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
 sudo apt install ./teamviewer_amd64.deb
 
-auto script 
+###auto script 
 
 sudo nano .bashrc
+
+after scripting in auto install packages
+
+pip install schedule
+
+pip istall requests
+
+
