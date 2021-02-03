@@ -21,6 +21,16 @@ sudo apt install ./teamviewer_amd64.deb
 
 sudo nano .bashrc
 
+put python script name 
+
+ctrl x
+
+then save script 
+
+shift Y & then press enter
+
+
+
 after scripting in auto install packages
 
 sudo apt install python-pip
