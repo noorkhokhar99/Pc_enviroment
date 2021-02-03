@@ -5,6 +5,11 @@ auto power on
 
 Fireport
 
+Teamviewer file on download folder
+
+ls
+
+cd Downloads
 
 Teamviewer
 
