@@ -30,3 +30,4 @@ pip install schedule
 pip istall requests
 
 
+sudo apt-get install xterm
