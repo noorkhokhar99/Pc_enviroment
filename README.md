@@ -37,7 +37,7 @@ sudo apt install python-pip
 
 pip install schedule
 
-pip istall requests
+pip install requests
 
 
 sudo apt-get install xterm
